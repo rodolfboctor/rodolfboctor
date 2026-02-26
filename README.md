@@ -8,9 +8,9 @@ I lead AI product development — from zero-to-one builds to scaling systems han
 
 ### 🔧 What I'm Building
 
-- **[ProTeach](https://github.com/proteachHL/proteach-app)** — AI-powered homeschool platform with Orton-Gillingham methodology, adaptive learning engines, and state compliance automation *(Active — 300+ commits)*
+- **[ProTeach](https://github.com/proteachHL/proteach-app)** — AI-powered homeschool platform with adaptive learning engines, 21 educational games, and state compliance automation *(Active — 300+ commits)*
 - **[RAG Eval Toolkit](https://github.com/Abanoubr/rag-eval-toolkit)** — Open-source Python toolkit for evaluating RAG pipelines: faithfulness, relevancy, and context precision metrics
-- **[Artive AI Engine](https://github.com/Abanoubr/artive-ai-engine)** — AI consultancy engine 
+- **[Artive AI Engine](https://github.com/Abanoubr/artive-ai-engine)** — AI consultancy platform (company acquired by KPR Indonesia)
 
 ### 📊 Career Highlights
 
