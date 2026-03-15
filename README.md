@@ -1,6 +1,6 @@
 # Abanoub Rodolf Boctor
 
-**Founder & CTO at [ThynkQ](https://thynkq.com)** — building AI products for high-value clients. Also an AI engineer with a track record: 700K+ monthly automated interactions at Wizz Air, 96.2% chatbot accuracy at Sanofi leading a 65-person team, built and sold an AI consultancy (acquired by KPR Indonesia).
+building AI products for high-value clients. Also an AI engineer with a track record: 700K+ monthly automated interactions at Wizz Air, 96.2% chatbot accuracy at Sanofi leading a 65-person team, built and sold an AI consultancy (acquired by KPR Indonesia).
 
 ---
 
