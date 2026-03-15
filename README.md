@@ -1,20 +1,21 @@
 # Abanoub Rodolf Boctor
 
-**AI Engineer** building RAG systems, LLM evaluation tools, and full-stack AI products.
-
-I ship AI from zero to production. 700K+ monthly automated interactions at Wizz Air. 96.2% chatbot accuracy at Sanofi leading a 65-person team. Built and sold an AI consultancy (acquired by KPR Indonesia). Most recently building HIPAA-compliant AI workflows at a medical technology company.
+**Founder & CTO at [ThynkQ](https://thynkq.com)** — building AI products for high-value clients. Also an AI engineer with a track record: 700K+ monthly automated interactions at Wizz Air, 96.2% chatbot accuracy at Sanofi leading a 65-person team, built and sold an AI consultancy (acquired by KPR Indonesia).
 
 ---
 
-### What I'm Working On
+### What I'm Building
 
+- **[ThynkQ](https://thynkq.com)** — AI product studio. End-to-end design, engineering, and deployment. $12K–$18K per project. Apple-level polish, production-grade infra.
 - **[ProTeach](https://proteachhomelearning.com)** — AI-powered homeschool platform: adaptive learning engine, 17 educational games, 53 API routes, 138K+ lines of TypeScript. Built in 6 days.
-- **[RAG Eval Toolkit](https://github.com/rodolfboctor/rag-eval-toolkit)** — Open-source Python toolkit for evaluating RAG pipelines. Measures faithfulness, answer relevancy, and context precision using LLM-as-judge with Claude and GPT-4 backends.
+- **ThynkQ i5 AI** — Self-hosted AI worker node running deepseek-coder-v2:16b locally via Ollama. Real-time dashboard with SSE streaming, chat + code modes, SQLite session history. 12 t/s on consumer hardware.
+- **[RAG Eval Toolkit](https://github.com/rodolfboctor/rag-eval-toolkit)** — Open-source Python toolkit for evaluating RAG pipelines. LLM-as-judge for faithfulness, relevancy, and context precision with Claude and GPT-4 backends.
 
 ### Career
 
 | Company | Role | What I Did |
 |---------|------|-----------|
+| ThynkQ | Founder & CTO | AI product studio — full-stack AI apps, $12K–$18K per project |
 | Medical Technology Co. | Chief Engineer | HIPAA-compliant AI portal, provider matching engine, workflow automation |
 | Meta | AI Trust & Safety | Content integrity systems at platform scale |
 | Sanofi | AI Product Lead | Led 65-person team, Watson assistant from 72% to 96.2% accuracy |
@@ -23,7 +24,7 @@ I ship AI from zero to production. 700K+ monthly automated interactions at Wizz 
 
 ### Tech
 
-`Python` `TypeScript` `Next.js` `React` `Node.js` `LangChain` `Claude API` `OpenAI` `RAG` `Vector DBs` `AWS` `Firebase` `Vercel`
+`Python` `TypeScript` `Next.js` `React` `Node.js` `LangChain` `Claude API` `OpenAI` `Ollama` `Self-hosted LLMs` `RAG` `Vector DBs` `AWS` `Firebase` `Vercel`
 
 ### Open Source
 
@@ -33,13 +34,9 @@ I ship AI from zero to production. 700K+ monthly automated interactions at Wizz 
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/abanoubrodolf)
+[LinkedIn](https://linkedin.com/in/abanoubrodolf) · [ThynkQ](https://thynkq.com)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodolfboctor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1E30&title_color=4FBDBA&icon_color=4FBDBA&text_color=C9D1D9" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rodolfboctor&theme=tokyonight&hide_border=true&background=0B1E30&ring=4FBDBA&fire=4FBDBA&currStreakLabel=4FBDBA" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rodolfboctor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1E30&title_color=339DFF&icon_color=339DFF&text_color=C9D1D9" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rodolfboctor&theme=tokyonight&hide_border=true&background=0B1E30&ring=339DFF&fire=339DFF&currStreakLabel=339DFF" height="160" />
 </p>
-
----
-
-<p align="center"><i>"We plan. You teach. They thrive."</i></p>
