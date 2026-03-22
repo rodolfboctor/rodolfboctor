@@ -24,7 +24,7 @@ Full-stack AI engineer with a track record in production-scale systems. 700K+ mo
 | **Meta** | AI Trust & Safety | Content integrity systems at platform scale |
 | **Sanofi** | AI Product Lead | Led 65-person team, Watson accuracy 72% to 96.2% |
 | **Wizz Air** | Conversational AI Lead | 700K+ monthly automated interactions (voice + chat) |
-| **Artive** *(acquired)* | AI Engineer | Built AI consultancy, acquired by KPR Indonesia |
+| **Artive** *(acquired)* | AI Engineer | AI platform development, company acquired by KPR Indonesia |
 
 ---
 
