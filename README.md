@@ -1,18 +1,16 @@
 # Abanoub Rodolf Boctor
 
-**Founder & CTO at [ThynkQ](https://thynkq.com)**
+**Senior AI Engineer** &nbsp; · &nbsp; Ex-Meta &nbsp; · &nbsp; Ex-Sanofi &nbsp; · &nbsp; Ex-Wizz Air
 
-I build AI products for high-value clients. Full-stack engineering, from model integration to production infrastructure. Track record: 700K+ monthly automated interactions at Wizz Air, 96.2% chatbot accuracy at Sanofi (65-person team), built and sold an AI consultancy (acquired by KPR Indonesia).
+Full-stack AI engineer with a track record in production-scale systems. 700K+ monthly automated interactions at Wizz Air, 96.2% chatbot accuracy at Sanofi (65-person team), content integrity at Meta. I build the full stack: model integration, backend APIs, infrastructure, and frontend.
 
 ---
 
-### What I'm Building
-
-**[ThynkQ](https://thynkq.com)** &nbsp; AI product studio. End-to-end design, engineering, and deployment. $12K-$18K per project.
+### Projects
 
 **[ProTeach](https://proteachhomelearning.com)** &nbsp; AI-powered homeschool platform. Adaptive learning engine, 17 educational games, 53 API routes, 138K+ lines of TypeScript. Built in 6 days.
 
-**Home Lab AI Infra** &nbsp; Multi-node local coding fleet. Two self-hosted worker nodes running deepseek-coder and qwen3-coder via Ollama. Automated task routing, real-time dashboards, branch-based dispatch pipelines. Consumer hardware, production workflows.
+**Home Lab AI Infra** &nbsp; Self-hosted coding fleet on consumer hardware. Local LLMs via Ollama (deepseek-coder, llama3), automated task routing, real-time dashboards, branch-based dispatch pipelines.
 
 **[RAG Eval Toolkit](https://github.com/rodolfboctor/rag-eval-toolkit)** &nbsp; Open-source Python toolkit for evaluating RAG pipelines. LLM-as-judge scoring for faithfulness, relevancy, and context precision.
 
@@ -22,12 +20,11 @@ I build AI products for high-value clients. Full-stack engineering, from model i
 
 | Company | Role | Impact |
 |---------|------|--------|
-| **ThynkQ** | Founder & CTO | AI product studio, full-stack apps, $12K-$18K/project |
 | **Medical Technology Co.** | Chief Engineer | HIPAA-compliant AI portal, provider matching engine |
 | **Meta** | AI Trust & Safety | Content integrity systems at platform scale |
 | **Sanofi** | AI Product Lead | Led 65-person team, Watson accuracy 72% to 96.2% |
 | **Wizz Air** | Conversational AI Lead | 700K+ monthly automated interactions (voice + chat) |
-| **Artive** *(acquired)* | Founder | Built and sold AI consultancy to KPR Indonesia |
+| **Artive** *(acquired)* | AI Engineer | Built AI consultancy, acquired by KPR Indonesia |
 
 ---
 
@@ -65,7 +62,7 @@ I build AI products for high-value clients. Full-stack engineering, from model i
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1E30?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/abanoubrodolf) &nbsp; [![ThynkQ](https://img.shields.io/badge/ThynkQ-0B1E30?style=flat-square&logo=safari&logoColor=339DFF)](https://thynkq.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1E30?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/abanoubrodolf)
 
 ---
 
