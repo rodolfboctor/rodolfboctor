@@ -65,7 +65,7 @@ Full-stack AI engineer with a track record in production-scale systems. 700K+ mo
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1E30?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/abanoubrodolf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1E30?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/abanoubrodolf) [![X](https://img.shields.io/badge/X-0B1E30?style=flat-square&logo=x&logoColor=ffffff)](https://x.com/abanoub_rodolf) [![Website](https://img.shields.io/badge/thynkq.com-0B1E30?style=flat-square&logo=safari&logoColor=339DFF)](https://thynkq.com)
 
 ---
 
