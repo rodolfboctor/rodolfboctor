@@ -8,6 +8,8 @@ Full-stack AI engineer with a track record in production-scale systems. 700K+ mo
 
 ### Projects
 
+**[mcp-scan](https://github.com/rodolfboctor/mcp-scan)** &nbsp; Security scanner for MCP server configs. Finds leaked secrets, typosquatting, and misconfigurations across Claude, Cursor, VS Code, and Windsurf. Available on [npm](https://www.npmjs.com/package/mcp-scan).
+
 **[ProTeach](https://proteachhomelearning.com)** &nbsp; AI-powered homeschool platform. Adaptive learning engine, 17 educational games, 53 API routes, 138K+ lines of TypeScript. Built in 6 days.
 
 **Home Lab AI Infra** &nbsp; Self-hosted coding fleet on consumer hardware. Local LLMs via Ollama (deepseek-coder, llama3), automated task routing, real-time dashboards, branch-based dispatch pipelines.
@@ -54,6 +56,7 @@ Full-stack AI engineer with a track record in production-scale systems. 700K+ mo
 
 ### Open Source
 
+- Built [mcp-scan](https://github.com/rodolfboctor/mcp-scan) - security scanner for MCP server configs, published on npm
 - Contributed RAG evaluation cookbook to [Anthropic's Claude Cookbooks](https://github.com/anthropics/claude-cookbooks)
 - Built [rag-eval-toolkit](https://github.com/rodolfboctor/rag-eval-toolkit) for evaluating RAG pipelines
 - Extended [LangChain](https://github.com/rodolfboctor/langchain) and [Ragas](https://github.com/rodolfboctor/ragas) evaluation frameworks
