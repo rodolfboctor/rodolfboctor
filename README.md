@@ -1,16 +1,24 @@
 # Abanoub Rodolf Boctor
 
-**Senior AI Engineer** &nbsp; · &nbsp; Ex-Meta &nbsp; · &nbsp; Ex-Sanofi &nbsp; · &nbsp; Ex-Wizz Air
+**Head of AI & Engineering** &nbsp; · &nbsp; Ex-Meta &nbsp; · &nbsp; 3x Founder &nbsp; · &nbsp; 2x Employee of the Year
 
-Full-stack AI engineer with a track record in production-scale systems. 700K+ monthly automated interactions at Wizz Air, 96.2% chatbot accuracy at Sanofi (65-person team), content integrity at Meta. I build the full stack: model integration, backend APIs, infrastructure, and frontend.
+Full-stack AI engineer with a track record in production-scale systems. 700K+ monthly automated interactions at Wizz Air, 96.2% chatbot accuracy at Sanofi (65-person team, Employee of the Year 2023), AI Trust & Safety at Meta. Founded and exited an AI company (acquired by KPR Indonesia). I build the full stack: model integration, backend APIs, infrastructure, and frontend.
+
+---
+
+### Featured
+
+**[The "S" in MCP Stands for Security](https://news.ycombinator.com/item?id=43518017)** &nbsp; 730 points · 183 comments · Hacker News, Mar 2026
+
+Featured in **[Stytch Engineering Blog](https://stytch.com/blog/npm-audit-for-mcp-security)**: *"npm-audit for MCP security: A deep-dive on mcp-scan"*
 
 ---
 
 ### Projects
 
-**[mcp-scan](https://github.com/rodolfboctor/mcp-scan)** &nbsp; Security scanner for MCP server configs. Finds leaked secrets, typosquatting, and misconfigurations across Claude, Cursor, VS Code, and Windsurf. Available on [npm](https://www.npmjs.com/package/mcp-scan).
+**[mcp-scan](https://github.com/rodolfboctor/mcp-scan)** &nbsp; Security scanner for MCP server configs. Finds leaked secrets, typosquatting, and misconfigurations across Claude, Cursor, VS Code, and Windsurf. Available on [npm](https://www.npmjs.com/package/mcp-scan). Featured by Stytch Engineering.
 
-**[ProTeach](https://proteachhomelearning.com)** &nbsp; AI-powered homeschool platform. Adaptive learning engine, 17 educational games, 53 API routes, 138K+ lines of TypeScript. Built in 6 days.
+**[ProTeach](https://proteachhomelearning.com)** &nbsp; AI-powered homeschool platform. Adaptive learning engine, 17 educational games, 53 API routes, 153K+ lines of TypeScript. COPPA compliant.
 
 **Home Lab AI Infra** &nbsp; Self-hosted coding fleet on consumer hardware. Local LLMs via Ollama (deepseek-coder, llama3), automated task routing, real-time dashboards, branch-based dispatch pipelines.
 
@@ -22,11 +30,11 @@ Full-stack AI engineer with a track record in production-scale systems. 700K+ mo
 
 | Company | Role | Impact |
 |---------|------|--------|
-| **Medical Technology Co.** | Chief Engineer | HIPAA-compliant AI portal, provider matching engine |
-| **Meta** | AI Trust & Safety | Content integrity systems at platform scale |
-| **Sanofi** | AI Product Lead | Led 65-person team, Watson accuracy 72% to 96.2% |
-| **Wizz Air** | Conversational AI Lead | 700K+ monthly automated interactions (voice + chat) |
-| **Artive** *(acquired)* | AI Engineer | AI platform development, company acquired by KPR Indonesia |
+| **Power Liens** | Head of AI & Engineering | HIPAA-compliant RAG agents, multi-model orchestration (GPT-4, Claude), serving 500+ law firms |
+| **Meta** | AI Trust & Safety | Red-teamed LLaMA models; adversarial prompt engineering research |
+| **Sanofi** | Conversational AI Lead | Led 65-person team · Watson accuracy 72% → 96.2% · **Employee of the Year 2023** |
+| **Wizz Air** | Conversational AI Lead | 700K+ monthly interactions · 89% precision · **Employee of the Year 2020** |
+| **Artive** *(acquired)* | Founder & CEO | Scaled 0 → 78 employees · Acquired by KPR Indonesia |
 
 ---
 
@@ -56,7 +64,7 @@ Full-stack AI engineer with a track record in production-scale systems. 700K+ mo
 
 ### Open Source
 
-- Built [mcp-scan](https://github.com/rodolfboctor/mcp-scan) - security scanner for MCP server configs, published on npm
+- Built [mcp-scan](https://github.com/rodolfboctor/mcp-scan) — security scanner for MCP server configs, published on npm
 - Contributed RAG evaluation cookbook to [Anthropic's Claude Cookbooks](https://github.com/anthropics/claude-cookbooks)
 - Built [rag-eval-toolkit](https://github.com/rodolfboctor/rag-eval-toolkit) for evaluating RAG pipelines
 - Extended [LangChain](https://github.com/rodolfboctor/langchain) and [Ragas](https://github.com/rodolfboctor/ragas) evaluation frameworks
