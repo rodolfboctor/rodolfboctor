@@ -4,6 +4,8 @@
 
 Full-stack AI engineer with a track record in production-scale systems. 700K+ monthly automated interactions at Wizz Air, 96.2% chatbot accuracy at Sanofi (65-person team, Employee of the Year 2023), AI Trust & Safety at Meta. Founded and exited an AI company (acquired by KPR Indonesia). I build the full stack: model integration, backend APIs, infrastructure, and frontend.
 
+**Keywords:** AI engineer · LLM integration · RAG pipelines · TypeScript · Next.js · MCP security · fractional CTO · New York
+
 ---
 
 ### Featured
@@ -16,13 +18,15 @@ Featured in **[Stytch Engineering Blog](https://stytch.com/blog/npm-audit-for-mc
 
 ### Projects
 
-**[mcp-scan](https://github.com/rodolfboctor/mcp-scan)** &nbsp; Security scanner for MCP server configs. Finds leaked secrets, typosquatting, and misconfigurations across Claude, Cursor, VS Code, and Windsurf. Available on [npm](https://www.npmjs.com/package/mcp-scan). Featured by Stytch Engineering.
+**[mcp-scan](https://github.com/rodolfboctor/mcp-scan)** &nbsp; Open-source security scanner for Model Context Protocol (MCP) server configs. Detects leaked secrets, prompt injection, typosquatting, supply-chain risks, and 17+ security checks across Claude Desktop, VS Code, Cursor, Windsurf, and 16+ AI tools. Available on [npm](https://www.npmjs.com/package/mcp-scan). Featured by Stytch Engineering.
 
-**[ProTeach](https://proteachhomelearning.com)** &nbsp; AI-powered homeschool platform. Adaptive learning engine, 17 educational games, 53 API routes, 153K+ lines of TypeScript. COPPA compliant.
-
-**Home Lab AI Infra** &nbsp; Self-hosted coding fleet on consumer hardware. Local LLMs via Ollama (deepseek-coder, llama3), automated task routing, real-time dashboards, branch-based dispatch pipelines.
+**[ProTeach](https://proteachhomelearning.com)** &nbsp; AI-powered homeschool platform. Adaptive learning engine, 17 educational games, 53 API routes, 153K+ lines of TypeScript in 21 days. COPPA compliant.
 
 **[RAG Eval Toolkit](https://github.com/rodolfboctor/rag-eval-toolkit)** &nbsp; Open-source Python toolkit for evaluating RAG pipelines. LLM-as-judge scoring for faithfulness, relevancy, and context precision.
+
+**[ThynkQ](https://thynkq.com)** &nbsp; AI engineering company. MVP development, AI integration, fractional CTO. Production-grade platforms for startups and enterprises.
+
+**Home Lab AI Infra** &nbsp; Self-hosted AI coding fleet on consumer hardware. Local LLMs via Ollama (deepseek-coder, llama3), automated task routing, real-time dashboards, branch-based dispatch pipelines.
 
 ---
 
@@ -64,16 +68,26 @@ Featured in **[Stytch Engineering Blog](https://stytch.com/blog/npm-audit-for-mc
 
 ### Open Source
 
-- Built [mcp-scan](https://github.com/rodolfboctor/mcp-scan) — security scanner for MCP server configs, published on npm
+- Built [mcp-scan](https://github.com/rodolfboctor/mcp-scan) — open-source MCP security scanner, 17+ checks, 16+ AI tools, [published on npm](https://www.npmjs.com/package/mcp-scan)
 - Contributed RAG evaluation cookbook to [Anthropic's Claude Cookbooks](https://github.com/anthropics/claude-cookbooks)
-- Built [rag-eval-toolkit](https://github.com/rodolfboctor/rag-eval-toolkit) for evaluating RAG pipelines
+- Built [rag-eval-toolkit](https://github.com/rodolfboctor/rag-eval-toolkit) for evaluating RAG pipelines (faithfulness, relevancy, context precision)
 - Extended [LangChain](https://github.com/rodolfboctor/langchain) and [Ragas](https://github.com/rodolfboctor/ragas) evaluation frameworks
+
+---
+
+### Writing
+
+- [Building 138K Lines of TypeScript in 6 Days](https://thynkq.com/writing/building-138k-lines-typescript-6-days)
+- [RAG Pipeline Production Architecture](https://thynkq.com/writing/rag-pipeline-production-architecture)
+- [Prompt Engineering for Production](https://thynkq.com/writing/prompt-engineering-for-production)
+- [How to Build an AI Agent with Next.js](https://thynkq.com/writing/how-to-build-ai-agent-nextjs)
+- [More articles on ThynkQ](https://thynkq.com/writing)
 
 ---
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1E30?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/abanoubrodolf) [![X](https://img.shields.io/badge/X-0B1E30?style=flat-square&logo=x&logoColor=ffffff)](https://x.com/abanoub_rodolf) [![Website](https://img.shields.io/badge/thynkq.com-0B1E30?style=flat-square&logo=safari&logoColor=339DFF)](https://thynkq.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1E30?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/abanoubrodolf) [![X](https://img.shields.io/badge/X-0B1E30?style=flat-square&logo=x&logoColor=ffffff)](https://x.com/abanoub_rodolf) [![Website](https://img.shields.io/badge/thynkq.com-0B1E30?style=flat-square&logo=safari&logoColor=339DFF)](https://thynkq.com) [![npm](https://img.shields.io/badge/npm-0B1E30?style=flat-square&logo=npm&logoColor=CB3837)](https://www.npmjs.com/~rodolfboctor)
 
 ---
 
