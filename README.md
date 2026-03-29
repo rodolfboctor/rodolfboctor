@@ -1,10 +1,10 @@
 # Abanoub Rodolf Boctor
 
-**Head of AI & Engineering** &nbsp; · &nbsp; Ex-Meta &nbsp; · &nbsp; 3x Founder &nbsp; · &nbsp; 2x Employee of the Year
+**AI Engineer & Builder** &nbsp; · &nbsp; Ex-Meta, Sanofi, Wizz Air &nbsp; · &nbsp; Founded & Exited &nbsp; · &nbsp; 2x Employee of the Year
 
-Full-stack AI engineer with a track record in production-scale systems. 700K+ monthly automated interactions at Wizz Air, 96.2% chatbot accuracy at Sanofi (65-person team, Employee of the Year 2023), AI Trust & Safety at Meta. Founded and exited an AI company (acquired by KPR Indonesia). I build the full stack: model integration, backend APIs, infrastructure, and frontend.
+I build production AI systems and ship fast. 700K+ monthly automations at Wizz Air. Took chatbot accuracy from 72% to 96.2% leading a 65-person team at Sanofi (Employee of the Year). AI Trust & Safety at Meta, red-teaming LLaMA models. Founded Artive, scaled to 78 employees, acquired by KPR Indonesia. Created [mcp-scan](https://github.com/rodolfboctor/mcp-scan), an open-source security scanner that hit [#1 on Hacker News](https://news.ycombinator.com/item?id=43518017) with 730 points. Built a full production platform (138K lines of TypeScript) in 21 days. I own the full stack: AI, backend, frontend, infra, payments, deployment.
 
-**Keywords:** AI engineer · LLM integration · RAG pipelines · TypeScript · Next.js · MCP security · fractional CTO · New York
+**Keywords:** AI engineer · LLM integration · RAG pipelines · TypeScript · Next.js · MCP security · open source · New York
 
 ---
 
@@ -20,7 +20,7 @@ Featured in **[Stytch Engineering Blog](https://stytch.com/blog/npm-audit-for-mc
 
 **[mcp-scan](https://github.com/rodolfboctor/mcp-scan)** &nbsp; Open-source security scanner for Model Context Protocol (MCP) server configs. Detects leaked secrets, prompt injection, typosquatting, supply-chain risks, and 17+ security checks across Claude Desktop, VS Code, Cursor, Windsurf, and 16+ AI tools. Available on [npm](https://www.npmjs.com/package/mcp-scan). Featured by Stytch Engineering.
 
-**[ProTeach](https://proteachhomelearning.com)** &nbsp; AI-powered homeschool platform. Adaptive learning engine, 17 educational games, 53 API routes, 153K+ lines of TypeScript in 21 days. COPPA compliant.
+**[ProTeach](https://proteachhomelearning.com)** &nbsp; AI-powered homeschool platform. Adaptive learning engine, 17 educational games, 53 API routes, 138K+ lines of TypeScript in 21 days. COPPA compliant.
 
 **[RAG Eval Toolkit](https://github.com/rodolfboctor/rag-eval-toolkit)** &nbsp; Open-source Python toolkit for evaluating RAG pipelines. LLM-as-judge scoring for faithfulness, relevancy, and context precision.
 
