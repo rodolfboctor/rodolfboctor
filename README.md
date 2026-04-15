@@ -5,15 +5,6 @@
 I build production AI systems and ship fast. 700K+ monthly automations at Wizz Air. Took chatbot accuracy from 72% to 96.2% leading a 65-person team at Sanofi (Employee of the Year). AI Trust & Safety at Meta, red-teaming LLaMA models. Founded Artive, scaled to 78 employees, acquired by KPR Indonesia. Created [mcp-scan](https://github.com/rodolfboctor/mcp-scan), an open-source security scanner that hit [#1 on Hacker News](https://news.ycombinator.com/item?id=43518017) with 730 points. Built a full production platform (138K lines of TypeScript) in 21 days. I own the full stack: AI, backend, frontend, infra, payments, deployment.
 
 **Keywords:** AI engineer · LLM integration · RAG pipelines · TypeScript · Next.js · MCP security · open source · New York
-
----
-
-### Featured
-
-**[The "S" in MCP Stands for Security](https://news.ycombinator.com/item?id=43518017)** &nbsp; 730 points · 183 comments · Hacker News, Mar 2026
-
-Featured in **[Stytch Engineering Blog](https://stytch.com/blog/npm-audit-for-mcp-security)**: *"npm-audit for MCP security: A deep-dive on mcp-scan"*
-
 ---
 
 ### Projects
